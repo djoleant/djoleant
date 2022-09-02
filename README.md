@@ -21,9 +21,6 @@
 ![CCNA3 - Scaling Networks](https://img.shields.io/badge/CCNA3-Scaling_Networks-2ea44f?logo=cisco)
 ![CCNA4 - Connecting Networks](https://img.shields.io/badge/CCNA4-Connecting_Networks-2ea44f?logo=cisco)
 
-## Stats <br />
-![Profile views](https://gpvc.arturio.dev/djoleant)
-
 
 <!--
 **djoleant/djoleant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
