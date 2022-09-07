@@ -21,6 +21,9 @@
 ![CCNA3 - Scaling Networks](https://img.shields.io/badge/CCNA3-Scaling_Networks-2ea44f?logo=cisco)
 ![CCNA4 - Connecting Networks](https://img.shields.io/badge/CCNA4-Connecting_Networks-2ea44f?logo=cisco)
 
+## Awards <br />
+- Best paper award - IEEESTEC Student's projects conference
+- EESTech Challenge - Artificial Intelligence & Human-Computer Interaction Hackathon
 
 <!--
 **djoleant/djoleant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
