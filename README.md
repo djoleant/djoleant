@@ -1,6 +1,7 @@
-Currently contributing on
+Currently contributing on <br>
 [@dorde-antic](https://github.com/dorde-antic)
-
+<br>
+<br>
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/djoleant)
 
 <!--
